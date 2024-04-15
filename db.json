@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "id": "83d2",
+      "nombre": "Camilo",
+      "apellido": "Guerrero",
+      "email": "camilog@gmail.com",
+      "telefono": "300-333-5632",
+      "empresa": "Cajamag",
+      "puesto": "Asesor",
+      "estado": 1
+    },
+    {
+      "id": "531c",
+      "nombre": "Enrique",
+      "apellido": "Lopez",
+      "email": "lopezEnri@gmail.com",
+      "telefono": "304-999-8541",
+      "estado": false
+    },
+    {
+      "id": "1e2a",
+      "nombre": "Daniela",
+      "apellido": "Teran",
+      "email": "daniteran@gmail.com",
+      "telefono": "321-023-6525",
+      "empresa": "Air-e",
+      "puesto": "Oficinista",
+      "estado": 1
+    }
+  ]
+}
